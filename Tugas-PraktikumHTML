@@ -5,7 +5,8 @@
 <body>
   <h2>Tugas Praktikum 1 HTML</h2>
    <ol>
-  <li>Tugas a</li>
+  <li>
+  <a href="http://alhwang.github.io/TugasA">Tugas A</a></li>
   <li>Tugas b</li>
   <li>Tugas c</li>
   </ol>
