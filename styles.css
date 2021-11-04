@@ -1,6 +1,6 @@
 p
 {
-  backgroung : #FFD9D9;
+  background : #FFD9D9;
   border-bottom : 4px solid red;
   padding-top : 15px;
   margin : -10px;
@@ -8,6 +8,6 @@ p
   width : auto;
   height : 35px;
   text-align : center;
-  vertival-align : center;
+  vertical-align : center;
 }
 h1 {color : lavender;}
